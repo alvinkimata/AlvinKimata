@@ -17,12 +17,20 @@ I'm driven by curiosity and a passion for writing clean, maintainable code. Whet
 
 ## 🛠️ Tech Stack
 
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### Backend & Frameworks
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -38,11 +46,7 @@ I'm driven by curiosity and a passion for writing clean, maintainable code. Whet
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,27 +56,6 @@ I'm driven by curiosity and a passion for writing clean, maintainable code. Whet
 ---
 
 ## 📂 Featured Projects
-
-### 🏥 [HemoTrack](https://github.com/alvinkimata/HemoTrack)
-**Hospital Management System for Sickle Cell Disease Management**
-
-A comprehensive web application designed to streamline healthcare management specifically for patients with sickle cell disease.
-
-**Key Features:**
-- 📅 Automated appointment scheduling and management
-- 👥 Role-based dashboards (Patients, Doctors, Administrators)
-- 📚 Integrated educational blog with health resources
-- 🔒 Robust security with RBAC (Role-Based Access Control)
-- 📊 Patient health record management
-- 🔐 Secure login and user authentication
-
-**Tech Stack:** ASP.NET Core MVC, C#, JavaScript, HTML, CSS, Bootstrap, SQL Server, MongoDB
-
-**Status:** Active Development | ⭐ 1 Star
-
-[View Repository](https://github.com/alvinkimata/HemoTrack)
-
----
 
 ### 🤖 [RAG Project](https://github.com/alvinkimata/RAG-project)
 **Retrieval Augmented Generation Engine**
@@ -170,6 +153,27 @@ A repository dedicated to learning and exploring Tailwind CSS, a utility-first C
 [View Repository](https://github.com/alvinkimata/Tailwind-CSS)
 
 ---
+### 🏥 [HemoTrack](https://github.com/alvinkimata/HemoTrack)
+**Hospital Management System for Sickle Cell Disease Management**
+
+A comprehensive web application designed to streamline healthcare management specifically for patients with sickle cell disease.
+
+**Key Features:**
+- 📅 Automated appointment scheduling and management
+- 👥 Role-based dashboards (Patients, Doctors, Administrators)
+- 📚 Integrated educational blog with health resources
+- 🔒 Robust security with RBAC (Role-Based Access Control)
+- 📊 Patient health record management
+- 🔐 Secure login and user authentication
+
+**Tech Stack:** ASP.NET Core MVC, C#, JavaScript, HTML, CSS, Bootstrap, SQL Server, MongoDB
+
+**Status:** Active Development | ⭐ 1 Star
+
+[View Repository](https://github.com/alvinkimata/HemoTrack)
+
+---
+
 
 ### 🔗 [ASP.NET Tutorials](https://github.com/alvinkimata/ASP.Net-tutorialspoint)
 **Learning Resource: ASP.NET Core Development**
