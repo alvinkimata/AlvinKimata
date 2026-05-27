@@ -272,4 +272,5 @@ I believe in:
 
 ---
 
-## 📈 GitHub Activity
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvinkimata&theme=dark&background=000000)](https://git.io/streak-stats)
+
